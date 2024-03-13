@@ -2,7 +2,7 @@
 title: Raul
 email: raul@domain.com
 url: RaulRodrigues.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Raul Rodrigues, profissional de fitness, atua como Personal Trainer especializado em condicionamento físico, corrida e triatlo, oferecendo treinamento personalizado para atletas de todos os níveis."
 keywords: "Personal Trainer, Treinamento Personalizado, Condicionamento Físico, Fitness, Exercícios Personalizados, Orientação de Treino, Bem-Estar, Saúde, Treinador Pessoal, Academia, Metas de Fitness, Corrida, Treinamento de Corrida, Corrida ao Ar Livre, Maratonas, Corrida de Rua, Endurance, Velocidade, Resistência, Planos de Treino, Corrida de Longa Distância, Triatlo, Natação, Ciclismo, Competição, Ironman, Treinamento de Transição, Desempenho Atlético, Preparação para Competições de Triatlo, Raul Rodrigues, Professor de Triatlo Raul Rodrigues, Condicionamento Físico com Raul Rodrigues, Exercícios Personalizados com Raul Rodrigues, Bem-Estar com Raul Rodrigues, Saúde com Raul Rodrigues, Treinamento Multiesportivo com Raul Rodrigues, Metas de Fitness com Raul Rodrigues"
 skills: "Personal Trainer"
 name: Raul Rodrigues
@@ -33,10 +33,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: RaulRodrigues
+  location: Localização
+  social: Redes sociais
+  credits: Créditos
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -53,8 +53,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: São Paulo
+  - line: São Paulo - Brasil
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
