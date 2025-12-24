@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+date: 2024-12-22
+img: running.png
+alt: Assessoria de Corrida
+project-date: 2024
+client: Raul Rodrigues
+category: Corrida
+description: Da sua primeira corrida de 5km até a maratona dos seus sonhos. Planilhas de treino personalizadas, técnica de corrida, trabalho de fortalecimento específico e periodização para provas. Corra mais longe, mais rápido e sem lesões.
 ---

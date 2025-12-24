@@ -1,12 +1,12 @@
 # Site settings
-title: Raul
-email: raul@domain.com
+title: Raul Rodrigues
+email: contato@raulrodrigues.com
 url: RaulRodrigues.github.io
-description: "Raul Rodrigues, profissional de fitness, atua como Personal Trainer especializado em condicionamento físico, corrida e triatlo, oferecendo treinamento personalizado para atletas de todos os níveis."
-keywords: "Personal Trainer, Treinamento Personalizado, Condicionamento Físico, Fitness, Exercícios Personalizados, Orientação de Treino, Bem-Estar, Saúde, Treinador Pessoal, Academia, Metas de Fitness, Corrida, Treinamento de Corrida, Corrida ao Ar Livre, Maratonas, Corrida de Rua, Endurance, Velocidade, Resistência, Planos de Treino, Corrida de Longa Distância, Triatlo, Natação, Ciclismo, Competição, Ironman, Treinamento de Transição, Desempenho Atlético, Preparação para Competições de Triatlo, Raul Rodrigues, Professor de Triatlo Raul Rodrigues, Condicionamento Físico com Raul Rodrigues, Exercícios Personalizados com Raul Rodrigues, Bem-Estar com Raul Rodrigues, Saúde com Raul Rodrigues, Treinamento Multiesportivo com Raul Rodrigues, Metas de Fitness com Raul Rodrigues"
-skills: "Personal Trainer"
+description: "Raul Rodrigues - Personal Trainer especializado em Triatlon, Corrida e Condicionamento Físico. Apaixonado por esportes radicais e paraquedismo. Treinamento personalizado para atletas de todos os níveis em São Paulo."
+keywords: "Personal Trainer, Triatlon, Triatleta, Ironman, Corrida, Running, Paraquedismo, Esportes Radicais, Treinamento Personalizado, Condicionamento Físico, Natação, Ciclismo, Maratona, São Paulo, Raul Rodrigues, Coach Esportivo, Preparação Física, Assessoria de Corrida"
+skills: "Personal Trainer | Triatlon | Esportes Radicais"
 name: Raul Rodrigues
-meta_author: Rodrigues Raul
+meta_author: Raul Rodrigues
 
 # Google webmaster tools
 google_verify:
@@ -15,7 +15,7 @@ google_verify:
 bing_verify:
 
 # Contact form:
-# - static : pass through formspree.io to validate email sending
+# - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -25,39 +25,36 @@ contact: static
 disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
+# Laranja vibrante + Azul escuro - Energia e Confiança
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: FF6B35
+  primary-rgb: "255,107,53"
+  secondary: 1A2B4C
+  secondary-dark: 0F1A2E
 
 # Footer settings
 footer:
-  copyright: RaulRodrigues
+  copyright: Raul Rodrigues
   location: Localização
-  social: Redes sociais
-  credits: Créditos
+  social: Redes Sociais
+  credits: Contato
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# Social networks usernames
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: instagram
+    url: https://instagram.com/raulrodrigues
+  - title: whatsapp
+    url: https://wa.me/5511999999999
+  - title: envelope
+    url: mailto:contato@raulrodrigues.com
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: São Paulo
-  - line: São Paulo - Brasil
+  - line: São Paulo - SP
+  - line: Brasil
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Entre em contato para agendar sua avaliação e começar sua transformação!'
 
 # Build settings
 markdown: kramdown
