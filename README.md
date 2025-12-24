@@ -1,32 +1,32 @@
-Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
-=========================
+# Raul Rodrigues - Personal Trainer
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+🏊 🚴 🏃 🪂
 
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2020-01-18
-img: cabin.png
-alt: image-alt
-project-date: January 2020
-client: The Client
-category: Web Development
-description: The description of the project
+Site profissional para Personal Trainer especializado em Triatlon e Esportes Radicais.
 
----
+## 🌐 Acesse
+
+**https://quelitonsouza.github.io/RaulRodrigues.github.io/**
+
+## 📁 Estrutura
+
+```
+├── index.html    # Landing page
+├── style.css     # Estilos
+├── script.js     # Interatividade
+└── .nojekyll     # Desabilita Jekyll
 ```
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
+## 🎨 Tecnologias
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+- HTML5
+- CSS3 (animações, gradientes, responsivo)
+- JavaScript (vanilla)
+- Google Fonts (Bebas Neue, Inter)
+- Font Awesome
 
----------
-For more details, read the [documentation](http://jekyllrb.com/)
+## 📧 Contato
+
+- WhatsApp: (11) 99999-9999
+- Instagram: @raulrodrigues
+- Email: contato@raulrodrigues.com
